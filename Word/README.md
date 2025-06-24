@@ -1,49 +1,30 @@
-# 📄 ¿Qué es un Oficio?
+# 📑 Documentación Formal en OEFA (Guía práctica)
 
-Un **oficio** es un documento administrativo formal utilizado principalmente en el sector público para **comunicar disposiciones, solicitar información, coordinar acciones o dar respuesta** a comunicaciones previas.
-
----
-
-## 🎯 ¿Para qué sirve un Oficio?
-
-- Solicitar información o documentos.  
-- Comunicar disposiciones, decisiones o resoluciones.  
-- Coordinar actividades entre áreas o instituciones.  
-- Dar respuesta a otros oficios o solicitudes.
+Esta guía resume los principales tipos de documentos usados en entidades del Estado como la OEFA, con ejemplos de estructura y redacción. Útil para practicantes o personal nuevo en áreas administrativas o de soporte.
 
 ---
 
-## 🧾 ¿Qué debe contener un Oficio?
+## 🗂️ Tipos de documentos comunes
 
-- **Encabezado**: Número de oficio y lugar/fecha.  
-- **Destinatario**: Nombre, cargo, entidad y saludo formal.  
-- **Asunto**: Tema del oficio, claro y conciso.  
-- **Cuerpo**: Desarrollo del mensaje (solicitud, información, disposición).  
-- **Despedida**: Frase formal y de cortesía.  
-- **Firma**: Nombre, cargo y entidad del remitente.
+1. **Oficio**
+   - Comunicación formal entre entidades o áreas
+   - Tiene número, asunto, saludo formal, desarrollo y despedida
+   - Siempre lleva firma y sello
 
-``` md
-OFICIO N° 045-2025-OA/OEFA  
-Lima, 24 de junio de 2025  
+2. **Memorando**
+   - Comunicación breve **interna** (entre áreas o personas del mismo órgano)
+   - Similar al oficio, pero más directo
 
-Señor  
-Carlos Ríos  
-Director General de Evaluación Ambiental  
-MINAM – Ministerio del Ambiente  
-Presente.-  
+3. **Informe**
+   - Documento detallado que analiza un hecho, situación o acción realizada
+   - Puede incluir antecedentes, análisis y conclusiones
 
-Asunto: Solicitud de remisión de informes técnicos
+4. **Carta**
+   - Documento menos formal que el oficio, a veces usado para temas no oficiales
 
-Tengo el agrado de dirigirme a usted para saludarlo cordialmente y, a la vez, solicitarle la remisión de los informes técnicos correspondientes al monitoreo ambiental realizado en la región Amazonas durante el primer trimestre del presente año.
+5. **Acta**
+   - Registro escrito de lo ocurrido en una reunión
+   - Incluye fecha, asistentes, acuerdos y firma de los presentes
 
-Dichos documentos son necesarios para continuar con la evaluación de impactos acumulativos en la zona, conforme a las funciones asignadas a esta Oficina.
+---
 
-Sin otro particular, quedo atento a su respuesta.
-
-Atentamente,  
-
-[Firma]  
-María López  
-Jefa de la Oficina de Asuntos Ambientales  
-OEFA
-```
