@@ -37,3 +37,14 @@ Esta guía resume los principales tipos de documentos usados en entidades del Es
   - ✅ Fecha
   - ✅ Firma (digital o escaneada)
   - ✅ Asunto claro y visible
+
+# 📊 Cuadro Comparativo de Documentos Administrativos
+
+| Documento | Objetivo principal | Situaciones de uso | Importancia | Formalidad | Destino |
+|-----------|--------------------|--------------------|-------------|------------|---------|
+| **Oficio** | Comunicar, solicitar o disponer formalmente | Solicitudes externas, coordinación entre instituciones, respuesta oficial | Alta: es documento legal y vinculante | 🟢 Alta | Externo / Interno |
+| **Memorando** | Comunicar acciones o pedidos breves dentro de la institución | Pedidos internos, recordatorios, avisos | Media: deja constancia interna rápida | 🟡 Media | Interno |
+| **Carta** | Expresar una solicitud, agradecimiento, reclamo o presentación con tono personal-formal | Solicitudes personales, agradecimientos, acompañamiento de documentos | Media-Alta: se usa cuando se necesita expresar un motivo o intención | 🟡 Media | Interno / Externo |
+| **Informe** | Informar y analizar hechos con evidencia y conclusiones | Monitoreos, inspecciones, reportes técnicos, análisis de situaciones | Muy alta: sirve de sustento para decisiones | 🟢 Alta | Interno / Externo |
+| **Acta** | Dejar constancia escrita de hechos, acuerdos o reuniones | Reuniones, visitas técnicas, entregas, constataciones | Muy alta: tiene valor legal como evidencia | 🟢 Alta | Interno (y externo si se comparte) |
+
