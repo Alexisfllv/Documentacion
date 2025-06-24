@@ -22,7 +22,7 @@ Un **oficio** es un documento administrativo formal utilizado principalmente en 
 - **Despedida**: Frase formal y de cortesía.  
 - **Firma**: Nombre, cargo y entidad del remitente.
 
-``` md
+``` less
 OFICIO N° 045-2025-OA/OEFA  
 Lima, 24 de junio de 2025  
 
