@@ -27,4 +27,13 @@ Esta guía resume los principales tipos de documentos usados en entidades del Es
    - Incluye fecha, asistentes, acuerdos y firma de los presentes
 
 ---
+## 🧠 Consejos
 
+- Guarda siempre una copia en **PDF** (no editable) y una en **Word** (editable).
+- Usa nombres de archivo claros y ordenados.  
+  Ejemplo: `Informe_Inspeccion_Planta_ABC_2025.pdf`
+- Aprende a usar **Control de cambios** y **Comentarios** en Word para revisar y corregir en equipo.
+- Asegúrate de que cada documento tenga:
+  - ✅ Fecha
+  - ✅ Firma (digital o escaneada)
+  - ✅ Asunto claro y visible
