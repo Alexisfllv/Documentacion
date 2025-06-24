@@ -1,56 +1,45 @@
 # Documentacion
-// WORD
+# 📁 Reglas Básicas por Defecto para Documentos Administrativos
 
-# Formato Estándar para Documentos Administrativos
-
-Este es un resumen de los principales parámetros que deben seguir los documentos administrativos formales (como oficios, informes, memorandos, etc.) en entornos públicos o institucionales.
+Este documento resume las reglas estándar y buenas prácticas que se deben seguir al crear documentos en Word, Excel y PowerPoint para trabajos formales, institucionales o del Estado.
 
 ---
 
-## 📄 Márgenes del Documento (A4)
+## 📝 Word (Documentos Escritos)
 
-- **Superior:** 3 cm  
-- **Inferior:** 3 cm  
-- **Izquierdo:** 3.5 cm  
-- **Derecho:** 2.5 cm
-
----
-
-## 🔤 Fuente y Texto
-
-- **Fuente:** Arial  
-- **Tamaño:** 12 pt  
-- **Color:** Negro  
-- **Interlineado:** 1.5  
-- **Alineación:** Justificado  
-- **Idioma del documento:** Español
+- Usa **Arial o Times New Roman**, tamaño 12 pt.
+- Márgenes estándar: Superior e inferior 3 cm, izquierdo 3.5 cm, derecho 2.5 cm.
+- Texto **justificado**, interlineado 1.5.
+- Usa **títulos en negrita** y mayúscula sostenida para secciones.
+- Agrega número de página si el documento supera una hoja.
+- Usa encabezado y pie de página con nombre de entidad si es formal.
+- Guarda como **.docx** (no .doc ni PDF salvo que te lo pidan).
 
 ---
 
-## 📐 Espaciado
+## 📊 Excel (Tablas, Reportes, Datos)
 
-- **Espaciado entre párrafos:**  
-  - Antes: 0 pt  
-  - Después: 6 pt (opcional)
-
----
-
-## 📄 Formato de Página
-
-- **Tamaño de hoja:** A4 (21 cm x 29.7 cm)  
-- **Numeración:** Centrada en pie de página (si hay más de una hoja)
+- Títulos de columnas **centrados y en negrita**.
+- Evita usar demasiados colores o bordes.
+- Usa **fórmulas y funciones básicas** como `SUMA`, `SI`, `BUSCARV`, etc.
+- Congela paneles para fijar encabezados si hay muchas filas.
+- Formatea celdas según tipo de dato (moneda, fecha, porcentaje).
+- Si es para presentar, protege o bloquea celdas con fórmulas.
+- Guarda como **.xlsx** (y no como .csv si hay formato o fórmulas).
 
 ---
 
-## ✅ Recomendaciones
+## 📽️ PowerPoint (Presentaciones)
 
-- Utilizar lenguaje claro y formal.
-- Usar membrete si aplica.
-- Evitar errores ortográficos.
-- Firmar siempre al final (nombre completo y cargo).
+- Usa **diapositivas simples y limpias**, sin saturar de texto.
+- No más de **5–6 líneas por diapositiva**.
+- Usa una **fuente grande** (mínimo 24 pt).
+- Mantén una **paleta de colores institucional** o profesional.
+- Usa **viñetas**, gráficos o íconos para destacar ideas.
+- Evita animaciones exageradas o efectos innecesarios.
+- Revisa ortografía y tiempos de exposición.
 
 ---
-
 
 
 
