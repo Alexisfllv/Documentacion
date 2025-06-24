@@ -31,3 +31,27 @@ Un **memorando** es un documento administrativo de uso interno en una instituci�
 - **Firma**: alineada a la izquierda o centrada.
 
 ---
+
+```less
+MEMORANDO N° 078-2025-OA/OEFA  
+Lima, 24 de junio de 2025
+
+De:     María López  
+         Jefa de la Oficina de Asuntos Administrativos  
+
+Para:   Pedro Salas  
+         Responsable de Logística  
+
+Asunto: Entrega de material pendiente
+
+Por medio del presente, se le recuerda que está pendiente la entrega del material solicitado por la Dirección de Supervisión, correspondiente al expediente N° 2025-045, el cual debe ser distribuido antes del 28 de junio del presente año.
+
+Agradeceré tomar las acciones correspondientes.
+
+Atentamente,  
+
+[Firma]  
+María López  
+Jefa de la Oficina de Asuntos Administrativos
+
+```
